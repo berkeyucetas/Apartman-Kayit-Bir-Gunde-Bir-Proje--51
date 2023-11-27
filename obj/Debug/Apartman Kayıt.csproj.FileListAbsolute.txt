@@ -1,0 +1,30 @@
+C:\Users\bekoo\Desktop\DOSYA\C# Uygulama\Apartman Kayıt\Apartman Kayıt\bin\Debug\Apartman Kayıt.exe.config
+C:\Users\bekoo\Desktop\DOSYA\C# Uygulama\Apartman Kayıt\Apartman Kayıt\bin\Debug\Apartman Kayıt.exe
+C:\Users\bekoo\Desktop\DOSYA\C# Uygulama\Apartman Kayıt\Apartman Kayıt\bin\Debug\Apartman Kayıt.pdb
+C:\Users\bekoo\Desktop\DOSYA\C# Uygulama\Apartman Kayıt\Apartman Kayıt\obj\Debug\Apartman Kayıt.csproj.AssemblyReference.cache
+C:\Users\bekoo\Desktop\DOSYA\C# Uygulama\Apartman Kayıt\Apartman Kayıt\obj\Debug\Apartman_Kayıt.Form1.resources
+C:\Users\bekoo\Desktop\DOSYA\C# Uygulama\Apartman Kayıt\Apartman Kayıt\obj\Debug\Apartman_Kayıt.Properties.Resources.resources
+C:\Users\bekoo\Desktop\DOSYA\C# Uygulama\Apartman Kayıt\Apartman Kayıt\obj\Debug\Apartman Kayıt.csproj.GenerateResource.cache
+C:\Users\bekoo\Desktop\DOSYA\C# Uygulama\Apartman Kayıt\Apartman Kayıt\obj\Debug\Apartman Kayıt.csproj.CoreCompileInputs.cache
+C:\Users\bekoo\Desktop\DOSYA\C# Uygulama\Apartman Kayıt\Apartman Kayıt\obj\Debug\Apartman Kayıt.exe
+C:\Users\bekoo\Desktop\DOSYA\C# Uygulama\Apartman Kayıt\Apartman Kayıt\obj\Debug\Apartman Kayıt.pdb
+C:\Users\bekoo\Desktop\DOSYA\C# Uygulama\Apartman Kayıt\Apartman Kayıt\bin\Debug\DevExpress.Data.Desktop.v23.1.dll
+C:\Users\bekoo\Desktop\DOSYA\C# Uygulama\Apartman Kayıt\Apartman Kayıt\bin\Debug\DevExpress.Data.v23.1.dll
+C:\Users\bekoo\Desktop\DOSYA\C# Uygulama\Apartman Kayıt\Apartman Kayıt\bin\Debug\DevExpress.Drawing.v23.1.dll
+C:\Users\bekoo\Desktop\DOSYA\C# Uygulama\Apartman Kayıt\Apartman Kayıt\bin\Debug\DevExpress.Printing.v23.1.Core.dll
+C:\Users\bekoo\Desktop\DOSYA\C# Uygulama\Apartman Kayıt\Apartman Kayıt\bin\Debug\DevExpress.Sparkline.v23.1.Core.dll
+C:\Users\bekoo\Desktop\DOSYA\C# Uygulama\Apartman Kayıt\Apartman Kayıt\bin\Debug\DevExpress.Utils.v23.1.dll
+C:\Users\bekoo\Desktop\DOSYA\C# Uygulama\Apartman Kayıt\Apartman Kayıt\bin\Debug\DevExpress.XtraEditors.v23.1.dll
+C:\Users\bekoo\Desktop\DOSYA\C# Uygulama\Apartman Kayıt\Apartman Kayıt\bin\Debug\DevExpress.Pdf.v23.1.Core.dll
+C:\Users\bekoo\Desktop\DOSYA\C# Uygulama\Apartman Kayıt\Apartman Kayıt\bin\Debug\DevExpress.Pdf.v23.1.Drawing.dll
+C:\Users\bekoo\Desktop\DOSYA\C# Uygulama\Apartman Kayıt\Apartman Kayıt\bin\Debug\DevExpress.Data.Desktop.v23.1.xml
+C:\Users\bekoo\Desktop\DOSYA\C# Uygulama\Apartman Kayıt\Apartman Kayıt\bin\Debug\DevExpress.Data.v23.1.xml
+C:\Users\bekoo\Desktop\DOSYA\C# Uygulama\Apartman Kayıt\Apartman Kayıt\bin\Debug\DevExpress.Drawing.v23.1.xml
+C:\Users\bekoo\Desktop\DOSYA\C# Uygulama\Apartman Kayıt\Apartman Kayıt\bin\Debug\DevExpress.Printing.v23.1.Core.xml
+C:\Users\bekoo\Desktop\DOSYA\C# Uygulama\Apartman Kayıt\Apartman Kayıt\bin\Debug\DevExpress.Sparkline.v23.1.Core.xml
+C:\Users\bekoo\Desktop\DOSYA\C# Uygulama\Apartman Kayıt\Apartman Kayıt\bin\Debug\DevExpress.Utils.v23.1.xml
+C:\Users\bekoo\Desktop\DOSYA\C# Uygulama\Apartman Kayıt\Apartman Kayıt\bin\Debug\DevExpress.XtraEditors.v23.1.xml
+C:\Users\bekoo\Desktop\DOSYA\C# Uygulama\Apartman Kayıt\Apartman Kayıt\bin\Debug\DevExpress.Pdf.v23.1.Core.xml
+C:\Users\bekoo\Desktop\DOSYA\C# Uygulama\Apartman Kayıt\Apartman Kayıt\bin\Debug\DevExpress.Pdf.v23.1.Drawing.xml
+C:\Users\bekoo\Desktop\DOSYA\C# Uygulama\Apartman Kayıt\Apartman Kayıt\obj\Debug\Apartman_Kayıt.frmAnaSayfa.resources
+C:\Users\bekoo\Desktop\DOSYA\C# Uygulama\Apartman Kayıt\Apartman Kayıt\obj\Debug\Apartman Kayıt.csproj.CopyComplete
